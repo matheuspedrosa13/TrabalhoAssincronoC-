@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectonner", "Tectonner\Tectonner.csproj", "{02F382E3-53EA-453D-83A9-7490BF5FAAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectonner.Repo", "Tectonner.Repo\Tectonner.Repo.csproj", "{779A8767-1F51-44E5-9B51-FB5FCB41BA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectonner.Service", "Tectonner.Service\Tectonner.Service.csproj", "{B00665BD-8128-4021-931F-A4E4AD2C4683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tectonner.Domain", "Tectonner.Domain\Tectonner.Domain.csproj", "{ECC2F35B-56C1-45B9-A38C-8ADF2E42AC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F382E3-53EA-453D-83A9-7490BF5FAAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F382E3-53EA-453D-83A9-7490BF5FAAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F382E3-53EA-453D-83A9-7490BF5FAAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F382E3-53EA-453D-83A9-7490BF5FAAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779A8767-1F51-44E5-9B51-FB5FCB41BA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779A8767-1F51-44E5-9B51-FB5FCB41BA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779A8767-1F51-44E5-9B51-FB5FCB41BA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779A8767-1F51-44E5-9B51-FB5FCB41BA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00665BD-8128-4021-931F-A4E4AD2C4683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00665BD-8128-4021-931F-A4E4AD2C4683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00665BD-8128-4021-931F-A4E4AD2C4683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00665BD-8128-4021-931F-A4E4AD2C4683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC2F35B-56C1-45B9-A38C-8ADF2E42AC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC2F35B-56C1-45B9-A38C-8ADF2E42AC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC2F35B-56C1-45B9-A38C-8ADF2E42AC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC2F35B-56C1-45B9-A38C-8ADF2E42AC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2018D44F-A15D-4150-91E9-D9B90BB1E35E}
+	EndGlobalSection
+EndGlobal
