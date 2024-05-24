@@ -8,7 +8,6 @@ namespace Tectonner.Domain.Entities;
 
 public class Vendedor
 {
-{
     public string CodigoVendedor { get; set; }
     public string NomeVendedor { get; set; }
 
